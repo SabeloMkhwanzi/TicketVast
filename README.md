@@ -3,7 +3,7 @@
 ### :sunglasses:  the ticketing system lacks memories that they reflect on remembering special moments from past events. NFTs have come into the picture to make tickets more functional and memorable..
 
 ### Site Preview
-![Cryptoverse](https://github.com/SabeloMkhwanzi/CryptoWorld/blob/main/cryptoworld.jpg)
+![Cryptoverse](https://github.com/SabeloMkhwanzi/TicketVast/blob/main/nft-ticketing-marketplace-Landing%20Page1.jpg)
 
 
 ### Features
