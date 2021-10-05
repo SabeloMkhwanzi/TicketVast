@@ -5,35 +5,35 @@
 ### Site Preview
 ![Cryptoverse](https://github.com/SabeloMkhwanzi/CryptoWorld/blob/main/cryptoworld.jpg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4993f1-e6a8-47df-b9e4-408478c711b8/deploy-status)](https://cryptoworldspace.netlify.app/)
 
 ### Features
  :zap: Fully Responsive\
- :zap: React.js\
- :zap: Rapaid API\
- :zap: Chart.js\
- :zap: Redux Toolkit\
- :zap: Ant-Design
+ :zap: Web application framework - Next.js\
+ :zap: Solidity development environment - Hardhat\
+ :zap: File Storage - IPFS\
+ :zap: Ethereum Web Client Library - Ethers.js\
+ :zap: UI Design - Chakra UI\
+ :zap: Host\Deployment - Vercel
+ 
 
 ### Lesson learned on this project
-* Advanced React best practices.
-* Understanding State Management using Redux Toolkit.
-* Fetching data from multiple sources using RapidAPI.
-* Using Ant-design to build the UI
-* Creating charts using Chart.js.  
+* Advanced REACT.js best practices.
+* Deep Understanding on building a ERC721 Token & Marketplace From openzeppelin using SOLIDITY.
+* Fetching and storing data using IPFS.
+* Using Chackra Ui to build the UI - Man! I must say i really enjoyed using CHACKRA UI at First time.  
 
 ### App Section
 :arrow_forward: Home Landing Page\
-:arrow_forward: Cryptocurrencies\
-:arrow_forward: Exchanges\
-:arrow_forward: News 
+:arrow_forward: Sell Ticket\
+:arrow_forward: Collectibles\
+:arrow_forward: DashBoard
 
 ### Setup 
 #### To run this project, Install using npm:
 
 ```
-   $ git clone gh repo clone SabeloMkhwanzi/CryptoWorld
-   $ cd CryptoWorld
+   $ git clone gh repo clone SabeloMkhwanzi/TickVast
+   $ cd TickVast
    $ npm install
    $ npm start
    ```
