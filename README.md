@@ -18,7 +18,7 @@
  
 
 ### Lesson learned on this project
-* Advanced REACT.js best practices.
+* Advanced TYPESCRPT & REACT.js best practices.
 * Deep Understanding on building a ERC721 Token & Marketplace From openzeppelin using SOLIDITY.
 * Fetching and storing data using IPFS.
 * Using Chackra Ui to build the UI - Man! I must say i really enjoyed using CHACKRA UI at First time.  
