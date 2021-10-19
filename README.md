@@ -71,5 +71,5 @@ Ticket owners can also resell NFT tickets on the NFT marketplace. The ticket is 
    $ git clone gh repo clone SabeloMkhwanzi/TickVast
    $ cd TickVast
    $ npm install
-   $ npm start
+   $ npm run dev
    ```
